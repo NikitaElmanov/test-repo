@@ -1,0 +1,12 @@
+#This file is used by the JNDI FSContext.
+#Sun Mar 10 20:18:58 MSK 2019
+Lola/RefAddr/2/Encoding=String
+Lola/RefAddr/0/Encoding=String
+Lola/RefAddr/1/Content=Orange
+Lola/RefAddr/0/Content=Lola
+Lola/ClassName=ru.jndi.project.Monkey
+Lola/RefAddr/0/Type=name
+Lola/RefAddr/1/Encoding=String
+Lola/RefAddr/1/Type=favoriteFruit
+Lola/RefAddr/2/Type=likedBananas
+Lola/RefAddr/2/Content=false
