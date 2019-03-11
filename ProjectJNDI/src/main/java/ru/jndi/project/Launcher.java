@@ -17,8 +17,12 @@ public class Launcher {
         Monkey steven = new Monkey("Steven", "Banana", true);
         Monkey lola = new Monkey("Lola", "Orange", false);
 
-        context.rebind("Lola", lola);
-        context.unbind("Steven");
+        context.rebind("steven", steven);
+
+        Object monkeySteven = context.lookup("steven");
+//        Object monkeyLola = context.lookup("Lola");
+
+        System.out.println(monkeySteven);
 
     }
 }
