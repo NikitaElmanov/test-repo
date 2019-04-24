@@ -1,0 +1,24 @@
+#This file is used by the JNDI FSContext.
+#Mon Mar 11 16:43:40 MSK 2019
+lola/FactoryName=ru.jndi.project.MonkeyFactory
+steven/FactoryName=ru.jndi.project.MonkeyFactory
+lola/RefAddr/2/Encoding=String
+lola/ClassName=ru.jndi.project.Monkey
+lola/RefAddr/1/Encoding=String
+lola/RefAddr/1/Content=Orange
+steven/RefAddr/2/Encoding=String
+steven/RefAddr/0/Type=name
+steven/RefAddr/0/Content=Steven
+steven/RefAddr/1/Type=favoriteFruit
+steven/RefAddr/0/Encoding=String
+steven/ClassName=ru.jndi.project.Monkey
+lola/RefAddr/0/Type=name
+steven/RefAddr/2/Type=likedBananas
+lola/RefAddr/2/Content=false
+lola/RefAddr/0/Content=Lola
+lola/RefAddr/1/Type=favoriteFruit
+lola/RefAddr/0/Encoding=String
+steven/RefAddr/2/Content=true
+lola/RefAddr/2/Type=likedBananas
+steven/RefAddr/1/Content=Banana
+steven/RefAddr/1/Encoding=String
